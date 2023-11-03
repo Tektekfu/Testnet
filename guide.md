@@ -1,5 +1,5 @@
 
-![alt text](https://i.hizliresim.com/785b3ek.png)
+
 
 # Minimum Sistem Gereksinimleri
 
@@ -11,7 +11,6 @@
 # Önemli
 Kurulumdan sonra Senkronize olun. Telemetry sitesinde moniker adınız çıkıyorsa formu doldurun.
 
-**Form ve Detaylar:** **https://x.com/AvailProject/status/1715008696835600451?s=20**
 
 **Telemetry:** **https://telemetry.avail.tools/**
 
@@ -132,14 +131,4 @@ Telemetry üzerinde;
 
 ![alt text](https://i.hizliresim.com/p0z1blq.png)
 
-
-- **https://t.me/testnetrun**
-
-- **https://link3.to/testnetrun**
-
-- **https://www.youtube.com/@TestNetRun**
-
-- **https://testnet.run/**
-
-- **https://stake.testnet.run/**
-
+*t.me/testnetrun tarafından alıntılanmıştır.
